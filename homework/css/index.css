@@ -1,0 +1,38 @@
+.biaoti1 h1{
+    font-size: 60px;
+    color:  whitesmoke;
+    font-style: normal;
+    text-shadow: 20px 20px 20px black;
+}
+.post-header h2{
+    /*text-shadow: 4px 4px 0 grey;*/
+
+}
+/*.ren {*/
+/*    vertical-align:middle;*/
+/*    padding-top:50px;*/
+/*}*/
+
+.content p {
+    font-size: 1.4em;
+    font-weight: 300;
+    line-height: 1.8em;
+    color: #111;
+}
+.content p.b{
+
+}
+.container h2{
+    /*text-shadow: 4px 4px 0 grey;*/
+}
+.m_sex_season{
+    float:right;
+    width:50%;
+}
+.f_sex_season{
+    float: left;
+    width: 50%;
+}
+
+
+
